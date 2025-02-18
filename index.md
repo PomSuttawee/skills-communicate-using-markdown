@@ -1,4 +1,7 @@
 # Header 1
+- [x] Add hamster's code
+- [x] Add hamster's image
+- [ ] Add more hamster!
 ```python
 my_text = "I love Hamster!"
 print(my_text)
